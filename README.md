@@ -4,6 +4,6 @@ Introduction.
 The program ESP8266 programmer from DDN Research is designed for programming WiFi modules based on the ESP8266 microcontroller.
 The program is free, without any restrictions.
 
-Developer: Dmitry Dmytrenko [http://ddn.radioliga.com]
+Developer: Dmytro Dmytrenko [http://ddn.radioliga.com]
 
 Instructions http://ddn.radioliga.com/mitreno/esp_prog
