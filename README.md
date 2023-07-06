@@ -4,7 +4,7 @@
 
 <b>Introduction</b>
 
-<p align=”justify”>Programmer for ESP8266 modules with automatic programming mode.
+<div align=”justify”>Programmer for ESP8266 modules with automatic programming mode.
 The need has arisen for small-scale programming of ESP8266 modules. These modules are used in many IoT devices where WiFi communication is required.
 Software - programmer was developed. Physical implementation - an ordinary module with a UART-USB converter on board is taken, ESP8266 is removed from it (ESP-1, ESP12E - variants are many), and then 2 ways: putting a special pad for the module (if the module is programmed outside the board), or connecting cable to the module, soldered into the printed board of the product. Usually, these are pins: plus and minus power, EN, RESET, UART_TX, UART_RX, GPIO0. The program itself is written in a Microsoft VisualStudio environment. The software does not require installation and can be launched from any location on the disk.
 The developed programmer has a number of features different from others.
@@ -15,6 +15,7 @@ P.S. There is a similar program for ESP32 as well, but so far it is only for int
 
 Developer: DDN Research, Ukraine
 https://github.com/DDN-Research
+</div>
 <hr>
 
 <b>Manual instruction</b>
