@@ -1,6 +1,6 @@
 # ESP8266_programmer
 
-![6240701_2](https://github.com/DDN-Research/ESP8266_programmer/assets/71212733/fb293c5b-3e54-4052-9ed0-013d48c6eb19)
+![6240701_2](https://github.com/DDN-Research/ESP8266_programmer/assets/71212733/abc51c11-0427-4eac-ae4e-6cc6aaa22ef0)
 
 <b>Introduction</b>
 
@@ -13,9 +13,7 @@ The developed programmer has a number of features different from others.
 This program is successfully used in production.
 P.S. There is a similar program for ESP32 as well, but so far it is only for internal use, passing something like a run-in.
 
-Developer: Dmytro Dmytrenko []
+Developer: DDN Research, Ukraine
 
-Instructions http://ddn.radioliga.com/mitreno/esp_prog
-
-
+<b>Manual instruction</b>
 
