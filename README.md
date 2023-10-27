@@ -14,7 +14,7 @@
 <p>This program is successfully used in production.</p>
 <p>P.S. There is a similar program for ESP32 as well, but so far it is only for internal use, passing something like a run-in.</p>
 <p></p>
-<p>Developer: DDN Research, Ukraine</p>
+<p>Developer: DDN Research, Canada</p>
 <p>https://github.com/DDN-Research</p>
 
 <hr>
