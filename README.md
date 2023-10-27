@@ -19,7 +19,7 @@
 
 <hr>
 
-<b>instruction manual</b>
+<b>Instruction manual</b>
 
 <b><i>Installation.</b></i>
 
