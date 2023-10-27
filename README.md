@@ -45,4 +45,4 @@
 
 ![256002](https://github.com/DDN-Research/ESP8266_programmer/assets/71212733/ed68a968-4d26-411c-897c-a4260bcb8352)
 
-<p>DDN Research, Ukraine 1990-2023 </p>
+<p>DDN Research, Ukraine/Canada 1990-2023 </p>
