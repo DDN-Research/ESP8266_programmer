@@ -29,7 +29,8 @@
 
 <p>After launching the executable file, a form will appear: 
 
-  ![256001](https://github.com/DDN-Research/ESP8266_programmer/assets/71212733/379e9dd3-3ae9-4d69-9dfc-47084144a6a4)
+  ![256001](https://github.com/DDN-Research/ESP8266_programmer/assets/71212733/8049cc4c-bd9f-4dca-8fc8-6caebf71132f)
+
 
 <p>Set the active COM port and the required BAUD rate. Keep in mind that increasing the BAUD rate will also increase the programming speed, but it may introduce interference that could lead to equipment failure or write errors. Find the optimal balance.
 
@@ -43,6 +44,7 @@
 
 <p>The program will automatically switch the reset and programming port outputs using the standard method, as shown in the example circuit below.
 
-![256002](https://github.com/DDN-Research/ESP8266_programmer/assets/71212733/ed68a968-4d26-411c-897c-a4260bcb8352)
+![256002](https://github.com/DDN-Research/ESP8266_programmer/assets/71212733/4ed84d4a-6b33-47fd-9998-3862cd75d5d4)
+
 
 <p>DDN Research, Ukraine/Canada 1990-2023 </p>
