@@ -44,7 +44,7 @@
 
 <p>The program will automatically switch the reset and programming port outputs using the standard method, as shown in the example circuit below.
 
-![256002](https://github.com/DDN-Research/ESP8266_programmer/assets/71212733/4ed84d4a-6b33-47fd-9998-3862cd75d5d4)
+![256005](https://github.com/DDN-Research/ESP8266_programmer/assets/71212733/4538873a-9a39-4c65-b329-0449033e59d7)
 
 
 <p>DDN Research, Ukraine/Canada 1990-2023 </p>
