@@ -1,6 +1,6 @@
 # ESP8266_programmer
 
-![6240701_2](https://github.com/DDN-Research/ESP8266_programmer/assets/71212733/abc51c11-0427-4eac-ae4e-6cc6aaa22ef0)
+![6240701_2](https://github.com/DDN-Research/ESP8266_programmer/assets/71212733/99d80e33-0d9c-4509-8906-8442d233b9ae)
 
 <b>Introduction</b>
 
